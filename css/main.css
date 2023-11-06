@@ -613,6 +613,7 @@ h2 {
   color: var(--color-white);
   padding: 0rem;
   padding-top: 1rem;
+  font-weight: normal;
 
 .privacy__policy:hover, 
 .privacy__policy:focus {
