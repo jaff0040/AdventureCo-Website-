@@ -49,6 +49,11 @@ ol[role='list'] {
 a {
   text-decoration-skip-ink: auto;
   color: #36BF7F;
+  /* ---------- prof comment ----------
+  
+  you should have updated the base anchor styles!
+  
+  ---------- end prof comment ---------- */
 }
 
 a:hover,
@@ -115,6 +120,13 @@ select {
 
 /* --------- Styles begin --------- */
 
+/* ---------- prof comment ----------
+
+:root should be the first thing at the top
+of the CSS file as you need these styles in
+the CSS Reset
+
+---------- end prof comment ---------- */
 :root {
 
 /* Colors */
